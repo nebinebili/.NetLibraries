@@ -59,6 +59,10 @@
             "SendGrid": {
               "target": "Package",
               "version": "[9.28.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
